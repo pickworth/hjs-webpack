@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Henrik Joreteg <henrik@andyet.net>",
   "dependencies": {
-    "react": "^15.0.1"
+    "react": "^16.5.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
