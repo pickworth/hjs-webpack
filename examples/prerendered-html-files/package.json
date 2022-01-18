@@ -4,7 +4,7 @@
   "author": "Henrik Joreteg <henrik@andyet.net>",
   "dependencies": {
     "ampersand-router": "^3.0.2",
-    "react": "^15.0.1"
+    "react": "^16.5.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
